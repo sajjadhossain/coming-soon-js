@@ -3,6 +3,7 @@
 ## TODO
 ### v1 MVP
 
+- [ ] SEO, Page Analytics
 - [ ] Commander
 - [ ] Express
 - [ ] Jade

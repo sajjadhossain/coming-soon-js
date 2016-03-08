@@ -1,0 +1,25 @@
+{
+  "name": "coming-soon",
+  "version": "1.0.0",
+  "description": "Turn a few short CLI commands into an nginx.conf, static html and customized coming soon landing page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio wdio.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajjadhossain/coming-soon-js.git"
+  },
+  "keywords": [
+    "js",
+    "coming-soon",
+    "node.",
+    "nginx"
+  ],
+  "author": "sajjad hossain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sajjadhossain/coming-soon-js/issues"
+  },
+  "homepage": "https://github.com/sajjadhossain/coming-soon-js#readme"
+}

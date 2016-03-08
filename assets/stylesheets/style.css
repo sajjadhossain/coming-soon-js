@@ -6,7 +6,7 @@ body {
     background-color: #ECF5F7;
 }
 
-p {
+h1 {
     font-family: "Open Sans", sans-serif;
     font-size: 4rem;
     font-weight: 500;
@@ -15,4 +15,8 @@ p {
     -webkit-margin-after: 0em;
     -webkit-margin-start: 0px;
     -webkit-margin-end: 0px;
+}
+
+p {
+    font-family: "Open Sans", sans-serif;
 }
